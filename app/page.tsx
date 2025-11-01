@@ -15,6 +15,7 @@ export default function Home() {
           <ServiceCard title="Recuperación tras un hackeo" description="Contención inicial y guía de recuperación para incidentes menores." href="/servicios/recuperacion-post-incidente" price="Desde USD 199" />
           <ServiceCard title="Refuerzo de seguridad básico para PyMEs" description="MFA, contraseñas, backups, roles, correo seguro: 10–15 políticas rápidas." href="/servicios/hardening-basico" price="Desde USD 199" />
           <ServiceCard title="Simulación de phishing y concientización" description="Campaña controlada, métricas y micro-capacitación." href="/servicios/simulacion-phishing" price="USD 199" />
+          <ServiceCard title="Servicio a medida" description="Servicios en base a tus necesidades. Contacta para un estimado" href="/servicios/servicio-a-medida" price="A convenir" />
         </div>
       </section>
     </>

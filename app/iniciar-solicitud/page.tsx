@@ -49,6 +49,7 @@ export default function IniciarSolicitud() {
             <option>Recuperación tras un hackeo</option>
             <option>Refuerzo de seguridad básico</option>
             <option>Simulación de phishing y concientización</option>
+            <option>Servicio a medida</option>
           </select>
         </div>
         <div className="grid gap-1">

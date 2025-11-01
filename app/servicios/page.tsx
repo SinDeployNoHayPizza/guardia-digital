@@ -13,6 +13,7 @@ export default function Servicios() {
         <ServiceCard title="Recuperación tras un hackeo" description="Contención inicial para incidentes menores." href="/servicios/recuperacion-post-incidente" price="Desde USD 199" />
         <ServiceCard title="Refuerzo de seguridad básico para PyMEs" description="Implementación de controles esenciales." href="/servicios/hardening-basico" price="Desde USD 199" />
         <ServiceCard title="Simulación de phishing y concientización" description="Ejercicio controlado y capacitación." href="/servicios/simulacion-phishing" price="USD 199" />
+        <ServiceCard title="Servicio a medida" description="Servicios en base a tus necesidades. Contacta para un estimado" href="/servicios/servicio-a-medida" price="A convenir" />
       </div>
     </section>
   );
